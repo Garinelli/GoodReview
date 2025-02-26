@@ -175,7 +175,8 @@ def main():
     # Пример использования
     # url = "https://www.wildberries.ru/catalog/313705743/detail.aspx"
     # url = "https://www.wildberries.ru/catalog/135642165/detail.aspx"
-    url = "https://www.wildberries.ru/catalog/312989411/detail.aspx"
+    # url = "https://www.wildberries.ru/catalog/312989411/detail.aspx"
+    url = "https://www.wildberries.ru/catalog/196491327/detail.aspx"
 
     link = get_feedback_link(driver, url)
 
